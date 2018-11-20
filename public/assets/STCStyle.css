@@ -1,0 +1,159 @@
+
+body{
+	background-color:grey;
+	margin:auto;
+}
+.box-1{
+	font-size:25px;
+	color:orange;
+	text-align: center;
+	border-radius:20px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: orange;
+	margin-bottom:0px;
+	margin-top:10px;
+	margin-left:20px;
+	margin-right:20px;
+	padding:0px;
+}
+.sidecontainer{
+	font-family:Helvetica;
+	padding:0px;
+	margin-left:0px;
+	margin-right:0px;
+	border-left-style:solid;
+	border-bottom-style:solid;
+	
+	border-width:4px;
+	border-height:100%;
+	height:600px;
+	float:right;
+	width:20%;
+	border-color:orange;
+}
+.sidecontainer h3{
+	font-family:Helvetica;
+	text-align:center;
+	font-size:25px;
+	padding:0px;
+	margin-bottom:10px;
+	margin-top:40px;
+	color:orange;
+	
+}
+.sidecontainer ul{
+	text-align:left;
+	
+}
+.sidecontainer h6{
+	padding:0px;
+	margin-top:25px;
+	margin-bottom:10px;
+	font-size:20px;
+	color:blue;
+}
+.sidecontainer p{
+	font-size:18px;
+	margin:10px;
+}
+.container{
+
+	border-style:double;
+	border-color:orange;
+	border-width:10px;
+	width:85%;
+	
+	margin:auto;
+	
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:100%;
+	background-color:black;
+}
+
+}
+.containertable{
+	font-size:25px;
+	display:inline-block;
+}
+.subtitle{
+	font-size:20px;
+	
+}
+.imagecontainer h2{
+	text-align:center;
+	font-size:25px;
+	margin:0px;
+	padding-bottom:5px;
+}
+.imagecontainer img{
+	width:350px;
+}
+.branding{
+	margin:auto;
+	font-size:20px;
+
+}
+.imagecontainerlarge {
+	text-align:center;
+	font-family:Helvetica;
+	color:orange;
+	float:left;
+	width:60%;
+	
+	margin:auto;
+	margin:20px;
+	border-style:dashed;
+	border-radius:20px;
+	border-width:4px;
+}
+.imagecontainer {
+	text-align:center;
+	font-family:Helvetica;
+	color:orange;
+	float:left;
+	width:33%;
+	padding:10px;
+	margin:auto;
+	margin:20px;
+	border-style:dashed;
+	border-radius:20px;
+	border-width:4px;
+}
+.imagecontainer p{
+	text-align:center;
+	font-size:18px;
+	margin:0px;
+}
+.banner{
+	color:green;
+	background-color:white;
+	font-size:30px;
+	height:30px;
+}
+.banner h3{
+	
+}
+td{
+	padding-left:50px;
+	padding-right:50px;
+	padding-bottom:10px;
+}
+
+h6{
+	color:white;
+	font-size:20px;
+	text-align:center
+}
+p{
+	font-size:20px;
+	color:white;
+	text-align:center;
+}
+ul{
+	color:white;
+	font-size:22px;
+
+
